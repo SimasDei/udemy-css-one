@@ -1,0 +1,25 @@
+{
+  "name": "udemycssone",
+  "version": "1.0.0",
+  "description": "Udemy css course project One",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimasDei/UdemyCssOne.git"
+  },
+  "author": "Simas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimasDei/UdemyCssOne/issues"
+  },
+  "homepage": "https://github.com/SimasDei/UdemyCssOne#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.2"
+  },
+  "dependencies": {
+    "hoek": "^4.2.1"
+  }
+}
