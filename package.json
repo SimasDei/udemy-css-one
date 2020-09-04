@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/SimasDei/UdemyCssOne#readme",
   "devDependencies": {
-    "node-sass": "^4.9.2"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "hoek": "^4.2.1"
